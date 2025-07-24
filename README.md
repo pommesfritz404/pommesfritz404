@@ -16,7 +16,7 @@ I enjoy solving problems creatively and exploring new technologies.
 
 ## 📊 GitHub Stats
 
-![Pommesfritz404's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pommesfritz404&show_icons=true&theme=highcontrast)
+![](https://github-readme-stats.vercel.app/api?username=pommesfritz404&show_icons=true&theme=highcontrast)
 
 ---
 
