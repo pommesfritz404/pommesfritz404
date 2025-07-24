@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi (:
 
-<!--
-**pommesfritz404/pommesfritz404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I'm a passionate developer focused on **Discord bots**, **web development**, and **automation tools**.  
+I enjoy solving problems creatively and exploring new technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💻 I love working with Python, JavaScript, TypeScript & FastAPI  
+- 🌐 Also experimenting with modern web technologies like React & Tailwind CSS  
+- 🤝 Open to collaboration and fun side projects!
+
+---
+
+## 📊 GitHub Stats
+
+![Pommesfritz404's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pommesfritz404&show_icons=true&theme=highcontrast)
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+![Python](https://img.shields.io/badge/-Python-333?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat-square&logo=typescript)
+![FastAPI](https://img.shields.io/badge/-FastAPI-333?style=flat-square&logo=fastapi)
+![React](https://img.shields.io/badge/-React-333?style=flat-square&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-333?style=flat-square&logo=tailwind-css)
+![Git](https://img.shields.io/badge/-Git-333?style=flat-square&logo=git)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-333?style=flat-square&logo=visual-studio-code)
+
+---
+
+> “It's not a bug – it's an undocumented feature.”
+— Every developer, ever
