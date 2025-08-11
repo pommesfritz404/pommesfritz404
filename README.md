@@ -33,7 +33,6 @@ I enjoy solving problems creatively and exploring new technologies.
 ![Go](https://img.shields.io/badge/-Go-333?style=flat-square&logo=go)
 ![Rust](https://img.shields.io/badge/-Rust-333?style=flat-square&logo=rust)
 ![PHP](https://img.shields.io/badge/-PHP-333?style=flat-square&logo=php)
-![Ruby](https://img.shields.io/badge/-Ruby-333?style=flat-square&logo=ruby)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333?style=flat-square&logo=kotlin)
 ![Swift](https://img.shields.io/badge/-Swift-333?style=flat-square&logo=swift)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333?style=flat-square&logo=fastapi)
