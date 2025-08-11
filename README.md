@@ -23,6 +23,8 @@ I enjoy solving problems creatively and exploring new technologies.
 ## 🛠️ Tech Stack & Tools
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat-square&logo=python)
+![HTML](https://img.shields.io/badge/-HTML-333?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-333?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat-square&logo=typescript)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333?style=flat-square&logo=fastapi)
